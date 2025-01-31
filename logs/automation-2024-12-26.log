@@ -1,0 +1,110 @@
+suiteXmlPath: "C:\Users\AHEX-T~1\AppData\Local\Temp\testng-eclipse-441307501\testng-customsuite.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 48 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 47 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\Ahex-Tech\AppData\Local\Temp\testng-eclipse-441307501\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 20 ms.
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+Test FAILED...
+Debug logs...
+[TestNG] Time taken by org.testng.reporters.jq.Main@15cea7b0: 266 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@26e412ef: 46 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@cb0f763: 29 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@1949309d: 19 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@121c54fa: 37 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@4390f46e: 0 ms
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\testng.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\testng.xml
+
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\testng.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\testng.xml
+
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\testng.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\testng.xml
+
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...

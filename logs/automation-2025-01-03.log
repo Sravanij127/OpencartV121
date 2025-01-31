@@ -1,0 +1,101 @@
+Clicked on Register link
+Providing customer details...
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+*** Finished TC001_AccountRegistrationTest ***
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+*** Starting TC002_LoginTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+*** Starting TC002_LoginTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+*** Starting TC002_LoginTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+Parsing relationship: /_rels/.rels
+using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+[TestNG] Running:
+  C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml
+

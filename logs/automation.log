@@ -1,0 +1,15 @@
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+*** Starting TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+*** Starting TC001_AccountRegistrationTest ***
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+suiteXmlPath: "C:\Users\Ahex-Tech\eclipse-workspace\OpencartV121\master.xml"
+*** Starting TC001_AccountRegistrationTest ***
+Clicked on MyAccount link
+Clicked on Register link
+Providing customer details...
+Validationg expected message...
+*** Finished TC001_AccountRegistrationTest ***
+*** Starting TC002_LoginTest ***
+*** Finished TC002_LoginTest ***
